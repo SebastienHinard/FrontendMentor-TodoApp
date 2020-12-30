@@ -11,7 +11,7 @@ const todoList = [
     },
     {
         id: 2,
-        label: '10 minutes meditaiton',
+        label: '10 minutes meditation',
         done: false
     },
     {
