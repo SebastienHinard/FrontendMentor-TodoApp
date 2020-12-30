@@ -34,7 +34,7 @@ const todoList = [
 const app = new Vue({
     el: "#app",
     data: {
-        darkMode: false,
+        darkMode: true,
         todos: [],
         nextTodoId: 0,
         filter: null,
